@@ -20,7 +20,8 @@ Install the dependencies<br />
 pip install fastapi uvicorn pydantic sentence-transformers langchain langchain-openai pinecone-client
 ```
 <br />
-Before setup replace YOUR_OPENAI_API_KEY and YOUR_API_KEY with the keys<br />
+
+Before setup replace **YOUR_OPENAI_API_KEY and **YOUR_API_KEY with the keys<br />
 
 Run the server<br />
 ```bash
